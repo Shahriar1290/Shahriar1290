@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shahriar%20Hossain%20Prottoy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%26%20Engineering%20Student%20%7C%20Developer&descAlignY=56&descSize=18" alt="header" width="100%"/>
+  <img src="./assets/header.svg" alt="header" width="100%"/>
 </p>
 
 <!-- Typing animation -->
@@ -158,5 +158,5 @@ I'm **Md Shahriar Hossain Prottoy**, a Computer Science & Engineering student fr
 
 <!-- Footer banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" width="100%"/>
+  <img src="./assets/footer.svg" alt="footer" width="100%"/>
 </p>
